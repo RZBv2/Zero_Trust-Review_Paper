@@ -217,20 +217,13 @@ This project was developed as a **university group project**. Meet the team: ***
 This project is licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0)**.
 
 ```
-Copyright (C) 2025  Zero Trust Review Paper Contributors
+© 2026 Team ZERO TRUST All Rights Reserved.
 
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU Affero General Public License as published
-by the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
+This review paper, including all written content, analysis, and structure, is the intellectual property of the authors. This work was produced as an academic group project and is shared publicly for educational reference only.
 
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
-GNU Affero General Public License for more details.
+You may not copy, reproduce, redistribute, or repurpose any part of this work — in whole or in part — without explicit written permission from the authors. Academic citation is permitted provided full credit is given to the original authors with a direct link to this repository.
 
-You should have received a copy of the GNU Affero General Public License
-along with this program. If not, see <https://www.gnu.org/licenses/>.
+For permissions or inquiries, contact us.
 ```
 
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
